@@ -1,0 +1,28 @@
+name: Karen Bito
+favicon: null
+layout_spectrum: 0.3609872437082231
+typography_spectrum: 0.46328402985818684
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8951845364645123
+  lightness: 0.08075162209570408
+  saturation: 0.15998048637993634
+  rhythmicContrast: 0.33802660880610347
+purpose: []
